@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  localization
+
+  Created by ibrahim doğan on 25.09.2018.
+  Copyright © 2018 ibrahimdn. All rights reserved.
+*/
+"Welcome" = "Willkommen bei";
+"OK" = "Okay";
+"TO-Buy List" = "Liste der Quittungen";
+"Tomato" = "Tomaten";
+"Chicken" = "Hähnchen";
+"Chesee" = "Käse";
+"Edit" = "bearbeiten";
